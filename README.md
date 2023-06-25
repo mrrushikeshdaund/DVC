@@ -6,9 +6,27 @@ conda create -p venv python=3.8 -y
 ```
 
 ```
-git init
+conda activate ./venv
 ```
 
+```
+dvc init
+```
+
+```
+avc add
+```
+
+```
+dvc repro
+```
+
+```
+dvc remote add
+```
+
+```
+dvc push
 ```
 
 
