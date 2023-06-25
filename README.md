@@ -14,7 +14,7 @@ dvc init
 ```
 
 ```
-avc add
+dvc add
 ```
 
 ```
@@ -27,6 +27,10 @@ dvc remote add
 
 ```
 dvc push
+```
+
+```
+dvc dag
 ```
 
 
